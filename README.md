@@ -21,4 +21,4 @@ While working on this assignment, I had a small challenge aligning the content a
 I also double-checked how to correctly insert variables like the name and bio inside JSX using curly braces `{}`.
 
 ## Screenshot
-(Drag and drop the screenshot of my UserProfile component here once it's ready.)
+<img width="425" height="605" alt="A9B" src="https://github.com/user-attachments/assets/56a6a249-d204-4fe5-8456-c7cc121229fe" />
